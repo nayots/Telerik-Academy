@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Odd-or-Even-Integers", "1. Odd-or-Even-Integers\1. Odd-or-Even-Integers.csproj", "{9F0FA493-0476-45CB-A860-D82D1C3D8605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Gravitation-on-the-Moon", "2. Gravitation-on-the-Moon\2. Gravitation-on-the-Moon.csproj", "{BF9ECAE3-336A-4431-AAE5-48BD56821209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Divide-by-7-and-5", "3. Divide-by-7-and-5\3. Divide-by-7-and-5.csproj", "{12818FB1-E101-4D0C-BAD0-F4A92C647F22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F0FA493-0476-45CB-A860-D82D1C3D8605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0FA493-0476-45CB-A860-D82D1C3D8605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0FA493-0476-45CB-A860-D82D1C3D8605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0FA493-0476-45CB-A860-D82D1C3D8605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF9ECAE3-336A-4431-AAE5-48BD56821209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9ECAE3-336A-4431-AAE5-48BD56821209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9ECAE3-336A-4431-AAE5-48BD56821209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9ECAE3-336A-4431-AAE5-48BD56821209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12818FB1-E101-4D0C-BAD0-F4A92C647F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12818FB1-E101-4D0C-BAD0-F4A92C647F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12818FB1-E101-4D0C-BAD0-F4A92C647F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12818FB1-E101-4D0C-BAD0-F4A92C647F22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
