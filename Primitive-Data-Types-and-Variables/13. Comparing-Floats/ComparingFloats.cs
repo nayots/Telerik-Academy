@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Globalization; // Used so we can input the floating-point values using the numpad. The program crashes in the Test if Globalisation is not used.
+using System.Globalization; // Used so we can input the floating-point values using the numpad( using . and not ,). The program crashes in the Test if Globalisation is not used.
 /*
 13.* Comparing Floats
 
