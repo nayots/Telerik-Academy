@@ -6,8 +6,8 @@ Write an expression that checks if given point (x, y) is inside a circle K({0, 0
 */
 class PointInACircle
 {
-        static void Main()
-        {
+    static void Main()
+    {
         double xCenter = 0.0;
         double yCenter = 0.0;
         double r = 2.0;
@@ -24,5 +24,5 @@ class PointInACircle
     Can also be done with the shorter formula version considering that the given values of xCenter and yCenter are 0,0 for each one.
     insidee = (xCenterP * xCenterP) + (yCenterP * yCenterP) <= (r * r); 
         */
-        }
+    }
 }
