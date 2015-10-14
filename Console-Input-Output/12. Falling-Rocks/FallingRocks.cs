@@ -20,7 +20,7 @@ struct GameObject
     public ConsoleColor color;
 }
 
-class Program
+class FallingRocks
 {
     static void printOnPosition (int x, int y, string str, ConsoleColor color = ConsoleColor.DarkBlue)
     {
