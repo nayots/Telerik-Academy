@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Play-with-Int,-Double-an
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Beer-Time", "10. Beer-Time\10. Beer-Time.csproj", "{A3C7DD18-5293-4D4D-B36F-5D6A432C929F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Number-as-Words", "11. Number-as-Words\11. Number-as-Words.csproj", "{A2C1B159-6BCA-4B86-B30B-C960C4CE1462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Zero-Subset", "12. Zero-Subset\12. Zero-Subset.csproj", "{F63A145B-242D-41A4-8C2D-C6D8D63FDE11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{A3C7DD18-5293-4D4D-B36F-5D6A432C929F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3C7DD18-5293-4D4D-B36F-5D6A432C929F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3C7DD18-5293-4D4D-B36F-5D6A432C929F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C1B159-6BCA-4B86-B30B-C960C4CE1462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C1B159-6BCA-4B86-B30B-C960C4CE1462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C1B159-6BCA-4B86-B30B-C960C4CE1462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C1B159-6BCA-4B86-B30B-C960C4CE1462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F63A145B-242D-41A4-8C2D-C6D8D63FDE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63A145B-242D-41A4-8C2D-C6D8D63FDE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63A145B-242D-41A4-8C2D-C6D8D63FDE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63A145B-242D-41A4-8C2D-C6D8D63FDE11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
