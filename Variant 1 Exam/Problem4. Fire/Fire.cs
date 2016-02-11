@@ -7,9 +7,6 @@ class Fire
     static void Main()
     {
         int n = int.Parse(Console.ReadLine());
-
-        double hightOftorch = (1.25 * n) + 1;
-        string[] tourch = new string[(int)hightOftorch];
         // ...##...   1   a = n/2 - RowA    b = #   c = starts from 2nd rowA; d = # e = a
         // ..#..#..   2   . = n / 2 - rowA(2)
         // .#....#.   3   .
