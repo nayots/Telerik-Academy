@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Bulls and Cows",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Fire", "Problem4. Fire\Problem 4. Fire.csproj", "{6965A616-EDB8-49CB-B6D0-DD6C58CAE657}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5. Neurons", "Problem 5. Neurons\Problem 5. Neurons.csproj", "{4087BCAE-0E13-4483-BF54-1438D4F49A61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5. Neurons v2", "Problem 5. Neurons v2\Problem 5. Neurons v2.csproj", "{0F8CCD85-410E-49AE-8617-5011B4033882}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{6965A616-EDB8-49CB-B6D0-DD6C58CAE657}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6965A616-EDB8-49CB-B6D0-DD6C58CAE657}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6965A616-EDB8-49CB-B6D0-DD6C58CAE657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4087BCAE-0E13-4483-BF54-1438D4F49A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4087BCAE-0E13-4483-BF54-1438D4F49A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4087BCAE-0E13-4483-BF54-1438D4F49A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4087BCAE-0E13-4483-BF54-1438D4F49A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8CCD85-410E-49AE-8617-5011B4033882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8CCD85-410E-49AE-8617-5011B4033882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8CCD85-410E-49AE-8617-5011B4033882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8CCD85-410E-49AE-8617-5011B4033882}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
